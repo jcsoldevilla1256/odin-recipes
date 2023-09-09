@@ -17,9 +17,12 @@ a:hover {
 }
 
 body {
-    display: flex;
-    flex-wrap: wrap;
-    width: 600px;
+    max-width: 600px;
     margin: auto;
     background-color: white;
+}
+
+p, h1, h2, h3, h4, ul {
+    padding-left: 10px;
+    padding-right: 10px;
 }
