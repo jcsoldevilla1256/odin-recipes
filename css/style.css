@@ -22,7 +22,11 @@ body {
     background-color: white;
 }
 
-p, h1, h2, h3, h4, ul {
+p, h1, h2, h3, h4{
     padding-left: 10px;
     padding-right: 10px;
+}
+
+ul {
+    padding-left: 27px;
 }
