@@ -18,4 +18,6 @@ a:hover {
 
 body {
     background-color: white;
+    width: 600px;
+    margin: auto;
 }
