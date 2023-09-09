@@ -27,7 +27,11 @@ p, h1, h2, h3, h4{
     padding-right: 10px;
 }
 
-ul, ol {
-    padding-left: 27px;
+ul {
+    padding-left: 40px;
+    padding-right: 10px;
+}
+
+ol {
     padding-right: 10px;
 }
